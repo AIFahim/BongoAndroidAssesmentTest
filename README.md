@@ -16,10 +16,10 @@
 ##                          b) Use a different design pattern for this solution.
 
 ## Ans a: [Builder Design Pattern Code](https://github.com/AIFahim/BongoAndroidAssesmentTest/tree/master/MyApplication2/app/src/main/java/com/example/myapplication/DesignPattern/BuilderDesignPattern)
-          [jUnit Test Code](https://github.com/AIFahim/BongoAndroidAssesmentTest/blob/master/MyApplication2/app/src/test/java/com/example/myapplication/DesignPatternChecker_Builder_Pattern.java)
+ [jUnit Test Code](https://github.com/AIFahim/BongoAndroidAssesmentTest/blob/master/MyApplication2/app/src/test/java/com/example/myapplication/DesignPatternChecker_Builder_Pattern.java)
 
 ## Ans b: [Factory Design Pattern Code](https://github.com/AIFahim/BongoAndroidAssesmentTest/tree/master/MyApplication2/app/src/main/java/com/example/myapplication/DesignPattern/FactoryDesignPattern)
-          [jUnit Test Code](https://github.com/AIFahim/BongoAndroidAssesmentTest/blob/master/MyApplication2/app/src/test/java/com/example/myapplication/DesignPatterChecker_Factory_Pattern.java)
+ [jUnit Test Code](https://github.com/AIFahim/BongoAndroidAssesmentTest/blob/master/MyApplication2/app/src/test/java/com/example/myapplication/DesignPatterChecker_Factory_Pattern.java)
 
 ## Question 3 :  Write a video player application with ‘Play’, ‘Forward’, ‘Rewind’ functionalities. Please write pseudocode for this program and explain the design 
 ## pattern you will use to develop these three functionalities.
