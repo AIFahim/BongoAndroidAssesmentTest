@@ -1,0 +1,24 @@
+### BongoAndroidAssesmentTest
+
+## Question 1 :  Write a function that detects if two strings are anagram e.g. ‘bleat’ and ‘table’ are anagrams but ‘eat’ and ‘tar’ are not.
+
+## Ans : [Anagram](https://github.com/AIFahim/BongoAndroidAssesmentTest/blob/master/MyApplication2/app/src/main/java/com/example/myapplication/AnagramMacther.java)
+
+## Question 2 : Explain the design pattern used in following:
+##                      interface Vehicle {
+##                      int set_num_of_wheels()
+##                      int set_num_of_passengers()
+##                      boolean has_gas()
+##                      }
+                      
+##                          a) Explain how you can use the pattern to create car and plane class?
+##                          b) Use a different design pattern for this solution.
+
+## Ans a: [Builder Design Pattern](https://github.com/AIFahim/BongoAndroidAssesmentTest/tree/master/MyApplication2/app/src/main/java/com/example/myapplication/DesignPattern/BuilderDesignPattern)
+
+## Ans b: [Factory Design Pattern](https://github.com/AIFahim/BongoAndroidAssesmentTest/tree/master/MyApplication2/app/src/main/java/com/example/myapplication/DesignPattern/FactoryDesignPattern)
+
+## Question 3 :  Write a video player application with ‘Play’, ‘Forward’, ‘Rewind’ functionalities. Please write pseudocode for this program and explain the design 
+## pattern you will use to develop these three functionalities.
+
+## Ans :  I use MVVM design pattern. [Code](https://github.com/AIFahim/BongoAndroidAssesmentTest/tree/master/MyApplication2/app/src/main/java/com/example/myapplication/VideoPlayer)
