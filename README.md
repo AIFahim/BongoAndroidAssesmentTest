@@ -1,5 +1,16 @@
 ### BongoAndroidAssesmentTest
 
+# Author: Md. Asif Iqbal Fahim
+
+Department of Computer Science & Engineering, </br>
+Green University of Bangladesh (GUB) </br>
+
+Linkedin: https://www.linkedin.com/in/AIFahim/ </br>
+Email: asif.iqbal.fahim.bd@gmail.com 
+
+<hr>
+
+
 ## Question 1 :  Write a function that detects if two strings are anagram e.g. ‘bleat’ and ‘table’ are anagrams but ‘eat’ and ‘tar’ are not.
 
 ## Ans : [Anagram Code](https://github.com/AIFahim/BongoAndroidAssesmentTest/blob/master/MyApplication2/app/src/main/java/com/example/myapplication/AnagramMacther.java)
